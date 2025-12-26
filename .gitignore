@@ -1,0 +1,8 @@
+.evn
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+evn/
+venv
